@@ -36,6 +36,5 @@ int main()
   
     printf("\n S->%s", modifiedGram); 
     printf("\n X->%s\n", newGram); 
- 
     return 0; 
 }
